@@ -1,11 +1,11 @@
 Jaranilla TV Lab Answers HAHAHAAHAHAHA
 
 
-==decorator:facade==
+decorator:facade
 (recheck danay ang examples and feel free na i follow lang ang format, may documentation man for explanations)
 
 
-==for observer:chain==
+for observer:chain
 (even though both chain and observer examples ang ara da for each program, may mas applicable na design pattern for each number, gin list ko man sa dalom)
 
 1. Spam Filter - Chain — each filter checks, passes if unsure
